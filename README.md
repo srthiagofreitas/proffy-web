@@ -1,7 +1,7 @@
 <h1>Proffy</h1>
 
 <p align="center">
-<img src=".github/Homeproffy.svg" height="250" width="250"/></br>
+<img src=".github/Homeproffy.svg" height="500" width="500"/></br>
 </p>
 
 <p align="center">
